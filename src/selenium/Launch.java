@@ -21,8 +21,8 @@ public static void main(String[] args) {
 	System.out.println(url2);
 	
 	driver.get("https://greenstech.in");
-	String title3 = driver.getTitle();
-	System.out.println(title3);
+	String title5 = driver.getTitle();
+	System.out.println(title5);
 	String url3 = driver.getCurrentUrl();
 	System.out.println(url3);
 	
